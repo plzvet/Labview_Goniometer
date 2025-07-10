@@ -16,7 +16,7 @@ LabVIEW와 고니어미터 시스템을 활용하여 광소자의 회절 및 산
 - DBR 필름 유무에 따른 광 특성 비교 분석
 
 ## 🖥 시스템 구성도
-👉 ![image](https://github.com/user-attachments/assets/e9790f68-1a7a-4518-b590-064edf2bd2a7)
+ ![image](https://github.com/user-attachments/assets/e9790f68-1a7a-4518-b590-064edf2bd2a7)
 
 - 광원 ↔ 샘플 ↔ Photodetector → LabVIEW 제어 → 데이터 시각화 및 저장
 
